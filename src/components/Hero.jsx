@@ -87,7 +87,7 @@ const Hero = () => {
           <div className="relative w-full aspect-square">
             <div className="absolute inset-0 bg-linear-to-r from-cyan-500 to-blue-500 rounded-full blur-3xl opacity-20 animate-pulse"></div>
             <img 
-              src="public/images/mypic.jpeg"
+              src="/images/mypic.jpeg"
               alt="Profile"
               className="relative z-10 w-full h-[120%] object-cover rounded-4xl border border-white/10 p-4"
             />
